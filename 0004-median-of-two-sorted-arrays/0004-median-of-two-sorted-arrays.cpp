@@ -4,6 +4,7 @@ public:
         int m = nums1.size();
         int n = nums2.size();
 
+        // Ensure that nums1 is the shorter array
         if (m > n) {
             return findMedianSortedArrays(nums2, nums1);
         }
@@ -12,7 +13,7 @@ public:
         int right = m;
 
         while (left <= right) {
-            int partitionX = (left + right) / 2;
+            int partitionX = left + (right - left) / 2;
             int partitionY = (m + n + 1) / 2 - partitionX;
 
             int maxLeftX = (partitionX == 0) ? INT_MIN : nums1[partitionX - 1];
@@ -23,9 +24,9 @@ public:
 
             if (maxLeftX <= minRightY && maxLeftY <= minRightX) {
                 if ((m + n) % 2 == 0) {
-                    return (max(maxLeftX, maxLeftY) + min(minRightX, minRightY)) / 2.0;
+                    return (static_cast<double>(max(maxLeftX, maxLeftY)) + static_cast<double>(min(minRightX, minRightY))) / 2;
                 } else {
-                    return max(maxLeftX, maxLeftY);
+                    return static_cast<double>(max(maxLeftX, maxLeftY));
                 }
             } else if (maxLeftX > minRightY) {
                 right = partitionX - 1;
