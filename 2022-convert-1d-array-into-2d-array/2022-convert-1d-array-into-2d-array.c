@@ -8,29 +8,19 @@
 int** construct2DArray(int* original, int originalSize, int m, int n, int* returnSize, int** returnColumnSizes) {
     // Check if the construction is possible
     if (originalSize != m * n) {
-        *returnSize = 0; // Set return size to 0 for an empty array
-        return NULL; // Return NULL for impossible construction
+        *returnSize = 0; 
+        return NULL; 
     }
 
-    // Allocate memory for the 2D array
+    // Allocate memory for the 2D array and column sizes
     int** result = (int**)malloc(m * sizeof(int*));
-    for (int i = 0; i < m; i++) {
-        result[i] = (int*)malloc(n * sizeof(int));
-    }
-
-    // Fill the 2D array with elements from the original array
-    for (int i = 0; i < m; i++) {
-        for (int j = 0; j < n; j++) {
-            result[i][j] = original[i * n + j];
-        }
-    }
-
-    // Set return sizes
-    *returnSize = m;
     *returnColumnSizes = (int*)malloc(m * sizeof(int));
+    
     for (int i = 0; i < m; i++) {
-        (*returnColumnSizes)[i] = n;
+        result[i] = original + i * n; // Point to the correct segment of original
+        (*returnColumnSizes)[i] = n;   // Set column size for each row
     }
 
-    return result; // Return the constructed 2D array
+    *returnSize = m; // Set return size
+    return result;   // Return the constructed 2D array
 }
