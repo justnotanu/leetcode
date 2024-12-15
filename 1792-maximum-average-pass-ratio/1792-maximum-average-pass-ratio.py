@@ -6,4 +6,5 @@ class Solution:
             _, a, b = heappop(h)
             a, b = a + 1, b + 1
             heappush(h, (a / b - (a + 1) / (b + 1), a, b))
-        return sum(v[1] / v[2] for v in h) / len(classes)        
+        return sum(v[1] / v[2] for v in h) / len(classes)       
+    
