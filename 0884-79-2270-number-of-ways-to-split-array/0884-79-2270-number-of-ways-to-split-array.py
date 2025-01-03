@@ -6,3 +6,4 @@ class Solution:
             t += x
             ans += t >= s - t
         return ans
+    
