@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/justnotanu/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/justnotanu/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/justnotanu/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/justnotanu/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/justnotanu/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/justnotanu/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/justnotanu/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/justnotanu/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/justnotanu/leetcode/tree/master/3430-count-days-without-meetings) |
