@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/justnotanu/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/justnotanu/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2886-faulty-keyboard](https://github.com/justnotanu/leetcode/tree/master/2886-faulty-keyboard) |
 ## Sliding Window
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/justnotanu/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2886-faulty-keyboard](https://github.com/justnotanu/leetcode/tree/master/2886-faulty-keyboard) |
 ## Stack
 |  |
 | ------- |
