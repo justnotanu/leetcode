@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/justnotanu/leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/justnotanu/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/justnotanu/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/justnotanu/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/justnotanu/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/justnotanu/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/justnotanu/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0797-rabbits-in-forest](https://github.com/justnotanu/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/justnotanu/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/justnotanu/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1656-count-good-triplets](https://github.com/justnotanu/leetcode/tree/master/1656-count-good-triplets) |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/justnotanu/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/justnotanu/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/justnotanu/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/justnotanu/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/justnotanu/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -214,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/justnotanu/leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/justnotanu/leetcode/tree/master/0797-rabbits-in-forest) |
 | [2681-put-marbles-in-bags](https://github.com/justnotanu/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/justnotanu/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
