@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/justnotanu/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0409-longest-palindrome](https://github.com/justnotanu/leetcode/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/justnotanu/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/justnotanu/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/justnotanu/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/justnotanu/leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/justnotanu/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/justnotanu/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/justnotanu/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/justnotanu/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/justnotanu/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/justnotanu/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
