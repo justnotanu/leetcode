@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/justnotanu/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/justnotanu/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0409-longest-palindrome](https://github.com/justnotanu/leetcode/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/justnotanu/leetcode/tree/master/0768-partition-labels) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/justnotanu/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/justnotanu/leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/justnotanu/leetcode/tree/master/0067-add-binary) |
 | [0409-longest-palindrome](https://github.com/justnotanu/leetcode/tree/master/0409-longest-palindrome) |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/justnotanu/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/justnotanu/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/justnotanu/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/justnotanu/leetcode/tree/master/2478-longest-nice-subarray) |
