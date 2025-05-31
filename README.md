@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/justnotanu/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/justnotanu/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/justnotanu/leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/justnotanu/leetcode/tree/master/0067-add-binary) |
 | [0409-longest-palindrome](https://github.com/justnotanu/leetcode/tree/master/0409-longest-palindrome) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/justnotanu/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0337-house-robber-iii](https://github.com/justnotanu/leetcode/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/justnotanu/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/justnotanu/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/justnotanu/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [3001-apply-operations-to-maximize-score](https://github.com/justnotanu/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
 |  |
