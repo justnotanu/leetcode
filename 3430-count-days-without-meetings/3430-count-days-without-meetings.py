@@ -9,3 +9,4 @@ class Solution:
         ans += days - last
         return ans
              
+                  
