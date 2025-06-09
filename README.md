@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/justnotanu/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/justnotanu/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/justnotanu/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3706-smallest-substring-with-identical-characters-ii](https://github.com/justnotanu/leetcode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2690-house-robber-iv](https://github.com/justnotanu/leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/justnotanu/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/justnotanu/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3706-smallest-substring-with-identical-characters-ii](https://github.com/justnotanu/leetcode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 ## Counting
 |  |
 | ------- |
