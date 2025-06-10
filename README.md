@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/justnotanu/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/justnotanu/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/justnotanu/leetcode/tree/master/3447-clear-digits) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/justnotanu/leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/justnotanu/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/justnotanu/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/justnotanu/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3430-count-days-without-meetings](https://github.com/justnotanu/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/justnotanu/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/justnotanu/leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/justnotanu/leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/justnotanu/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/justnotanu/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/justnotanu/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/justnotanu/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/justnotanu/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/justnotanu/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/justnotanu/leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/justnotanu/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/justnotanu/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -279,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/justnotanu/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/justnotanu/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/justnotanu/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/justnotanu/leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/justnotanu/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/justnotanu/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
@@ -298,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/justnotanu/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/justnotanu/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/justnotanu/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/justnotanu/leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/justnotanu/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/justnotanu/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Shortest Path
