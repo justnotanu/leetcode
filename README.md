@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/justnotanu/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/justnotanu/leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/justnotanu/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3686-count-beautiful-splits-in-an-array](https://github.com/justnotanu/leetcode/tree/master/3686-count-beautiful-splits-in-an-array) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/justnotanu/leetcode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/justnotanu/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Bit Manipulation
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/justnotanu/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/justnotanu/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/justnotanu/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3686-count-beautiful-splits-in-an-array](https://github.com/justnotanu/leetcode/tree/master/3686-count-beautiful-splits-in-an-array) |
 ## Tree
 |  |
 | ------- |
