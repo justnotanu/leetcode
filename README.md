@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/justnotanu/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3686-count-beautiful-splits-in-an-array](https://github.com/justnotanu/leetcode/tree/master/3686-count-beautiful-splits-in-an-array) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/justnotanu/leetcode/tree/master/3690-smallest-substring-with-identical-characters-i) |
+| [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/justnotanu/leetcode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/justnotanu/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Bit Manipulation
 |  |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/justnotanu/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/justnotanu/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3686-count-beautiful-splits-in-an-array](https://github.com/justnotanu/leetcode/tree/master/3686-count-beautiful-splits-in-an-array) |
+| [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/justnotanu/leetcode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Tree
 |  |
 | ------- |
