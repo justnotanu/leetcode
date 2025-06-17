@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-push-dominoes](https://github.com/justnotanu/leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/justnotanu/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/justnotanu/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1894-merge-strings-alternately](https://github.com/justnotanu/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/justnotanu/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/justnotanu/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/justnotanu/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/justnotanu/leetcode/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/justnotanu/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/justnotanu/leetcode/tree/master/0868-push-dominoes) |
+| [1894-merge-strings-alternately](https://github.com/justnotanu/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/justnotanu/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/justnotanu/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/justnotanu/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
