@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/justnotanu/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/justnotanu/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/justnotanu/leetcode/tree/master/1500-count-largest-group) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/justnotanu/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/justnotanu/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/justnotanu/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/justnotanu/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1522-stone-game-iii](https://github.com/justnotanu/leetcode/tree/master/1522-stone-game-iii) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/justnotanu/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1656-count-good-triplets](https://github.com/justnotanu/leetcode/tree/master/1656-count-good-triplets) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/justnotanu/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/justnotanu/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/justnotanu/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/justnotanu/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/justnotanu/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1137-height-checker](https://github.com/justnotanu/leetcode/tree/master/1137-height-checker) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/justnotanu/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/justnotanu/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1970-sorting-the-sentence](https://github.com/justnotanu/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/justnotanu/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/justnotanu/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -430,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/justnotanu/leetcode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/justnotanu/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/justnotanu/leetcode/tree/master/0868-push-dominoes) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/justnotanu/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/justnotanu/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/justnotanu/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/justnotanu/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
