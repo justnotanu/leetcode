@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/justnotanu/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/justnotanu/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/justnotanu/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/justnotanu/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/justnotanu/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/justnotanu/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/justnotanu/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/justnotanu/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/justnotanu/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1522-stone-game-iii](https://github.com/justnotanu/leetcode/tree/master/1522-stone-game-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/justnotanu/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/justnotanu/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1656-count-good-triplets](https://github.com/justnotanu/leetcode/tree/master/1656-count-good-triplets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/justnotanu/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0806-domino-and-tromino-tiling](https://github.com/justnotanu/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/justnotanu/leetcode/tree/master/0868-push-dominoes) |
 | [1522-stone-game-iii](https://github.com/justnotanu/leetcode/tree/master/1522-stone-game-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/justnotanu/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/justnotanu/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/justnotanu/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/justnotanu/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
