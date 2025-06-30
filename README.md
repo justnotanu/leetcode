@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/justnotanu/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/justnotanu/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/justnotanu/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/justnotanu/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/justnotanu/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/justnotanu/leetcode/tree/master/1500-count-largest-group) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/justnotanu/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/justnotanu/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/justnotanu/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/justnotanu/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/justnotanu/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/justnotanu/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/justnotanu/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1522-stone-game-iii](https://github.com/justnotanu/leetcode/tree/master/1522-stone-game-iii) |
