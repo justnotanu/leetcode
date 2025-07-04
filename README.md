@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/justnotanu/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/justnotanu/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/justnotanu/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/justnotanu/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -661,9 +662,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/justnotanu/leetcode/tree/master/0969-number-of-recent-calls) |
 | [3678-design-task-manager](https://github.com/justnotanu/leetcode/tree/master/3678-design-task-manager) |
 ## Geometry
 |  |
 | ------- |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/justnotanu/leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/justnotanu/leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
