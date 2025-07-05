@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/justnotanu/leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/justnotanu/leetcode/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/justnotanu/leetcode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/justnotanu/leetcode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/justnotanu/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/justnotanu/leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/justnotanu/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/justnotanu/leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/justnotanu/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/justnotanu/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/justnotanu/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -541,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/justnotanu/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/justnotanu/leetcode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/justnotanu/leetcode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/justnotanu/leetcode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/justnotanu/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/justnotanu/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/justnotanu/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
