@@ -656,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/justnotanu/leetcode/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/justnotanu/leetcode/tree/master/0328-odd-even-linked-list) |
 ## Trie
 |  |
 | ------- |
