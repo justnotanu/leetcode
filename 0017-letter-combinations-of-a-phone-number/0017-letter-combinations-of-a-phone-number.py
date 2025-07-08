@@ -30,4 +30,3 @@ class Solution:
         
         backtrack(0, "")  # Start backtracking from index 0 with an empty combination
         return results  # Return the list of combinations
-        
