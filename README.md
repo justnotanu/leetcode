@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/justnotanu/leetcode/tree/master/0337-house-robber-iii) |
 | [0904-leaf-similar-trees](https://github.com/justnotanu/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/justnotanu/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/justnotanu/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/justnotanu/leetcode/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/justnotanu/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/justnotanu/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/justnotanu/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0904-leaf-similar-trees](https://github.com/justnotanu/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/justnotanu/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/justnotanu/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/justnotanu/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/justnotanu/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/justnotanu/leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/justnotanu/leetcode/tree/master/0337-house-robber-iii) |
 | [0904-leaf-similar-trees](https://github.com/justnotanu/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/justnotanu/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/justnotanu/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -409,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/justnotanu/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/justnotanu/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/justnotanu/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/justnotanu/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/justnotanu/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/justnotanu/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/justnotanu/leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
