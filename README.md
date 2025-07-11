@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/justnotanu/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/justnotanu/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/justnotanu/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2479-meeting-rooms-iii](https://github.com/justnotanu/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/justnotanu/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/justnotanu/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/justnotanu/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/justnotanu/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/justnotanu/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/justnotanu/leetcode/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/justnotanu/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/justnotanu/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/justnotanu/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/justnotanu/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -437,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/justnotanu/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/justnotanu/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/justnotanu/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/justnotanu/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/justnotanu/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/justnotanu/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/justnotanu/leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -519,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/justnotanu/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/justnotanu/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2479-meeting-rooms-iii](https://github.com/justnotanu/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/justnotanu/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/justnotanu/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/justnotanu/leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -535,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/justnotanu/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/justnotanu/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/justnotanu/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2479-meeting-rooms-iii](https://github.com/justnotanu/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/justnotanu/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2846-robot-collisions](https://github.com/justnotanu/leetcode/tree/master/2846-robot-collisions) |
 | [2886-faulty-keyboard](https://github.com/justnotanu/leetcode/tree/master/2886-faulty-keyboard) |
