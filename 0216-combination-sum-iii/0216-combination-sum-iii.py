@@ -18,3 +18,4 @@ class Solution:
         
         backtrack(1, [], n)  # Start backtracking from number 1
         return results  # Return the list of valid combinations
+
