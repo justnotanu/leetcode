@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/justnotanu/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/justnotanu/leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/justnotanu/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/justnotanu/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/justnotanu/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/justnotanu/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/justnotanu/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
