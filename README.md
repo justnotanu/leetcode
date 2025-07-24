@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/justnotanu/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/justnotanu/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/justnotanu/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/justnotanu/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/justnotanu/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/justnotanu/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/justnotanu/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -571,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/justnotanu/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/justnotanu/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/justnotanu/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/justnotanu/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/justnotanu/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/justnotanu/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/justnotanu/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -584,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/justnotanu/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/justnotanu/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2479-meeting-rooms-iii](https://github.com/justnotanu/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/justnotanu/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/justnotanu/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/justnotanu/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/justnotanu/leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -602,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/justnotanu/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/justnotanu/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/justnotanu/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/justnotanu/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/justnotanu/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2846-robot-collisions](https://github.com/justnotanu/leetcode/tree/master/2846-robot-collisions) |
 | [2886-faulty-keyboard](https://github.com/justnotanu/leetcode/tree/master/2886-faulty-keyboard) |
