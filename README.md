@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/justnotanu/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/justnotanu/leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/justnotanu/leetcode/tree/master/0437-path-sum-iii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/justnotanu/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/justnotanu/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/justnotanu/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/justnotanu/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -412,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/justnotanu/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/justnotanu/leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/justnotanu/leetcode/tree/master/0437-path-sum-iii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/justnotanu/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/justnotanu/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/justnotanu/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/justnotanu/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -802,4 +804,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/justnotanu/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/justnotanu/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
