@@ -377,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/justnotanu/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/justnotanu/leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/justnotanu/leetcode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/justnotanu/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/justnotanu/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/justnotanu/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/justnotanu/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/justnotanu/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/justnotanu/leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/justnotanu/leetcode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/justnotanu/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/justnotanu/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/justnotanu/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/justnotanu/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -813,5 +815,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/justnotanu/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/justnotanu/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
