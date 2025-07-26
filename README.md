@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/justnotanu/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/justnotanu/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/justnotanu/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/justnotanu/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/justnotanu/leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Bit Manipulation
 |  |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3647-zero-array-transformation-iii](https://github.com/justnotanu/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/justnotanu/leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/justnotanu/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/justnotanu/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -717,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/justnotanu/leetcode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/justnotanu/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/justnotanu/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/justnotanu/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Recursion
 |  |
 | ------- |
@@ -740,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/justnotanu/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/justnotanu/leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/justnotanu/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
