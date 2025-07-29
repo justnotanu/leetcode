@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/justnotanu/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/justnotanu/leetcode/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/justnotanu/leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/justnotanu/leetcode/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/justnotanu/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/justnotanu/leetcode/tree/master/0198-house-robber) |
@@ -540,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/justnotanu/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/justnotanu/leetcode/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/justnotanu/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/justnotanu/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -716,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/justnotanu/leetcode/tree/master/0062-unique-paths) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/justnotanu/leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/justnotanu/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/justnotanu/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
