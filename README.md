@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0385-mini-parser](https://github.com/justnotanu/leetcode/tree/master/0385-mini-parser) |
 | [0392-is-subsequence](https://github.com/justnotanu/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/justnotanu/leetcode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/justnotanu/leetcode/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/justnotanu/leetcode/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/justnotanu/leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/justnotanu/leetcode/tree/master/0649-dota2-senate) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/justnotanu/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/justnotanu/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/justnotanu/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/justnotanu/leetcode/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/justnotanu/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/justnotanu/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/justnotanu/leetcode/tree/master/0605-can-place-flowers) |
@@ -420,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/justnotanu/leetcode/tree/master/0337-house-robber-iii) |
 | [0385-mini-parser](https://github.com/justnotanu/leetcode/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/justnotanu/leetcode/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/justnotanu/leetcode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/justnotanu/leetcode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/justnotanu/leetcode/tree/master/0547-number-of-provinces) |
 | [0904-leaf-similar-trees](https://github.com/justnotanu/leetcode/tree/master/0904-leaf-similar-trees) |
@@ -459,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/justnotanu/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/justnotanu/leetcode/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/justnotanu/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/justnotanu/leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -468,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/justnotanu/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/justnotanu/leetcode/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/justnotanu/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/justnotanu/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -495,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/justnotanu/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/justnotanu/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/justnotanu/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/justnotanu/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/justnotanu/leetcode/tree/master/0547-number-of-provinces) |
 | [0945-snakes-and-ladders](https://github.com/justnotanu/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/justnotanu/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -509,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/justnotanu/leetcode/tree/master/0399-evaluate-division) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/justnotanu/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/justnotanu/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/justnotanu/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
