@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/justnotanu/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/justnotanu/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/justnotanu/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2689-rearranging-fruits](https://github.com/justnotanu/leetcode/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/justnotanu/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/justnotanu/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/justnotanu/leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2636-maximum-subsequence-score](https://github.com/justnotanu/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2665-minimum-time-to-repair-cars](https://github.com/justnotanu/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/justnotanu/leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/justnotanu/leetcode/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/justnotanu/leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/justnotanu/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/justnotanu/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -553,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/justnotanu/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/justnotanu/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/justnotanu/leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/justnotanu/leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/justnotanu/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/justnotanu/leetcode/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/justnotanu/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -714,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/justnotanu/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2636-maximum-subsequence-score](https://github.com/justnotanu/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/justnotanu/leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/justnotanu/leetcode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/justnotanu/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/justnotanu/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/justnotanu/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
