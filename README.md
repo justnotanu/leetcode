@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/justnotanu/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/justnotanu/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/justnotanu/leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/justnotanu/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/justnotanu/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/justnotanu/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/justnotanu/leetcode/tree/master/0216-combination-sum-iii) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/justnotanu/leetcode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/justnotanu/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/justnotanu/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/justnotanu/leetcode/tree/master/1046-max-consecutive-ones-iii) |
