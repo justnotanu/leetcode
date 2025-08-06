@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/justnotanu/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/justnotanu/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/justnotanu/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/justnotanu/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/justnotanu/leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Bit Manipulation
 |  |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/justnotanu/leetcode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/justnotanu/leetcode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/justnotanu/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/justnotanu/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Counting
 |  |
 | ------- |
@@ -827,6 +829,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/justnotanu/leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/justnotanu/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/justnotanu/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/justnotanu/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -838,6 +841,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-number-in-infinite-set](https://github.com/justnotanu/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [3678-design-task-manager](https://github.com/justnotanu/leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/justnotanu/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/justnotanu/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
