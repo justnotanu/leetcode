@@ -639,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/justnotanu/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/justnotanu/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/justnotanu/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0372-super-pow](https://github.com/justnotanu/leetcode/tree/master/0372-super-pow) |
 | [0679-24-game](https://github.com/justnotanu/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/justnotanu/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/justnotanu/leetcode/tree/master/0826-soup-servings) |
@@ -877,6 +878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/justnotanu/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0372-super-pow](https://github.com/justnotanu/leetcode/tree/master/0372-super-pow) |
 | [2280-count-good-triplets-in-an-array](https://github.com/justnotanu/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
