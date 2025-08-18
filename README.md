@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/justnotanu/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/justnotanu/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/justnotanu/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/justnotanu/leetcode/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/justnotanu/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/justnotanu/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/justnotanu/leetcode/tree/master/0735-asteroid-collision) |
@@ -638,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/justnotanu/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/justnotanu/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/justnotanu/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/justnotanu/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/justnotanu/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/justnotanu/leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/justnotanu/leetcode/tree/master/0867-new-21-game) |
@@ -826,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/justnotanu/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/justnotanu/leetcode/tree/master/0216-combination-sum-iii) |
+| [0679-24-game](https://github.com/justnotanu/leetcode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/justnotanu/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/justnotanu/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/justnotanu/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
