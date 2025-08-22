@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/justnotanu/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/justnotanu/leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/justnotanu/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/justnotanu/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/justnotanu/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/justnotanu/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/justnotanu/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/justnotanu/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/justnotanu/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1628-count-submatrices-with-all-ones](https://github.com/justnotanu/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1635-number-of-good-pairs](https://github.com/justnotanu/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/justnotanu/leetcode/tree/master/1656-count-good-triplets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/justnotanu/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/justnotanu/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/justnotanu/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/justnotanu/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/justnotanu/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/justnotanu/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/justnotanu/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/justnotanu/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/justnotanu/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -661,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1500-count-largest-group](https://github.com/justnotanu/leetcode/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/justnotanu/leetcode/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/justnotanu/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1635-number-of-good-pairs](https://github.com/justnotanu/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/justnotanu/leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/justnotanu/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/justnotanu/leetcode/tree/master/2050-count-good-numbers) |
