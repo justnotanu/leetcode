@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/justnotanu/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/justnotanu/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/justnotanu/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/justnotanu/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/justnotanu/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/justnotanu/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/justnotanu/leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
@@ -683,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3201-distribute-candies-among-children-ii](https://github.com/justnotanu/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/justnotanu/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/justnotanu/leetcode/tree/master/3321-type-of-triangle) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/justnotanu/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3548-find-the-count-of-good-integers](https://github.com/justnotanu/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/justnotanu/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/justnotanu/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
