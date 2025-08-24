@@ -427,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/justnotanu/leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/justnotanu/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/justnotanu/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0552-student-attendance-record-ii](https://github.com/justnotanu/leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/justnotanu/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/justnotanu/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/justnotanu/leetcode/tree/master/0826-soup-servings) |
