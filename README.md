@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/justnotanu/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/justnotanu/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/justnotanu/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0498-diagonal-traverse](https://github.com/justnotanu/leetcode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/justnotanu/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/justnotanu/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/justnotanu/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -702,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/justnotanu/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/justnotanu/leetcode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/justnotanu/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/justnotanu/leetcode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/justnotanu/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -767,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/justnotanu/leetcode/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/justnotanu/leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/justnotanu/leetcode/tree/master/0735-asteroid-collision) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/justnotanu/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2048-build-array-from-permutation](https://github.com/justnotanu/leetcode/tree/master/2048-build-array-from-permutation) |
