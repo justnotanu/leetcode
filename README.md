@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/justnotanu/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/justnotanu/leetcode/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/justnotanu/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/justnotanu/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/justnotanu/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/justnotanu/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/justnotanu/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/justnotanu/leetcode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/justnotanu/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/justnotanu/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/justnotanu/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1046-max-consecutive-ones-iii](https://github.com/justnotanu/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/justnotanu/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/justnotanu/leetcode/tree/master/1397-search-suggestions-system) |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/justnotanu/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/justnotanu/leetcode/tree/master/0724-find-pivot-index) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/justnotanu/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1046-max-consecutive-ones-iii](https://github.com/justnotanu/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/justnotanu/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2001-jump-game-vii](https://github.com/justnotanu/leetcode/tree/master/2001-jump-game-vii) |
@@ -666,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0826-soup-servings](https://github.com/justnotanu/leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/justnotanu/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/justnotanu/leetcode/tree/master/0900-reordered-power-of-2) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/justnotanu/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1236-n-th-tribonacci-number](https://github.com/justnotanu/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/justnotanu/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/justnotanu/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -935,6 +939,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/justnotanu/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [2280-count-good-triplets-in-an-array](https://github.com/justnotanu/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/justnotanu/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [3678-design-task-manager](https://github.com/justnotanu/leetcode/tree/master/3678-design-task-manager) |
@@ -1033,4 +1038,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0826-soup-servings](https://github.com/justnotanu/leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/justnotanu/leetcode/tree/master/0867-new-21-game) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/justnotanu/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Randomized
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/justnotanu/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
