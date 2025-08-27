@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/justnotanu/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/justnotanu/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/justnotanu/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3762-maximize-the-minimum-game-score](https://github.com/justnotanu/leetcode/tree/master/3762-maximize-the-minimum-game-score) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/justnotanu/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/justnotanu/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/justnotanu/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-zero-array-transformation-ii](https://github.com/justnotanu/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/justnotanu/leetcode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/justnotanu/leetcode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
+| [3762-maximize-the-minimum-game-score](https://github.com/justnotanu/leetcode/tree/master/3762-maximize-the-minimum-game-score) |
 | [3790-fruits-into-baskets-ii](https://github.com/justnotanu/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/justnotanu/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Counting
@@ -852,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3647-zero-array-transformation-iii](https://github.com/justnotanu/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/justnotanu/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/justnotanu/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3762-maximize-the-minimum-game-score](https://github.com/justnotanu/leetcode/tree/master/3762-maximize-the-minimum-game-score) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/justnotanu/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/justnotanu/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/justnotanu/leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
