@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3637-count-number-of-balanced-permutations](https://github.com/justnotanu/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/justnotanu/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/justnotanu/leetcode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
+| [3709-find-special-substring-of-length-k](https://github.com/justnotanu/leetcode/tree/master/3709-find-special-substring-of-length-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/justnotanu/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/justnotanu/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/justnotanu/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
