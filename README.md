@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/justnotanu/leetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/justnotanu/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/justnotanu/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/justnotanu/leetcode/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/justnotanu/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0385-mini-parser](https://github.com/justnotanu/leetcode/tree/master/0385-mini-parser) |
 | [0392-is-subsequence](https://github.com/justnotanu/leetcode/tree/master/0392-is-subsequence) |
@@ -677,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0060-permutation-sequence](https://github.com/justnotanu/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/justnotanu/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/justnotanu/leetcode/tree/master/0067-add-binary) |
+| [0224-basic-calculator](https://github.com/justnotanu/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/justnotanu/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/justnotanu/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/justnotanu/leetcode/tree/master/0342-power-of-four) |
@@ -817,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/justnotanu/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/justnotanu/leetcode/tree/master/0224-basic-calculator) |
 | [0385-mini-parser](https://github.com/justnotanu/leetcode/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/justnotanu/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/justnotanu/leetcode/tree/master/0735-asteroid-collision) |
@@ -934,6 +937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0060-permutation-sequence](https://github.com/justnotanu/leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/justnotanu/leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/justnotanu/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/justnotanu/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/justnotanu/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/justnotanu/leetcode/tree/master/0342-power-of-four) |
