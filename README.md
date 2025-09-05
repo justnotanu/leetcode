@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2915-count-of-interesting-subarrays](https://github.com/justnotanu/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/justnotanu/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/justnotanu/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/justnotanu/leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/justnotanu/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/justnotanu/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/justnotanu/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/justnotanu/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/justnotanu/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/justnotanu/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/justnotanu/leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/justnotanu/leetcode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/justnotanu/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/justnotanu/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
