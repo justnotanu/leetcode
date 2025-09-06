@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/justnotanu/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/justnotanu/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/justnotanu/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/justnotanu/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/justnotanu/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/justnotanu/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3762-maximize-the-minimum-game-score](https://github.com/justnotanu/leetcode/tree/master/3762-maximize-the-minimum-game-score) |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/justnotanu/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/justnotanu/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/justnotanu/leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/justnotanu/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -738,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3637-count-number-of-balanced-permutations](https://github.com/justnotanu/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/justnotanu/leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/justnotanu/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/justnotanu/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/justnotanu/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/justnotanu/leetcode/tree/master/3830-find-closest-person) |
 ## Matrix
