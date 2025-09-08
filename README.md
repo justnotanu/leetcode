@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/justnotanu/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/justnotanu/leetcode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/justnotanu/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/justnotanu/leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/justnotanu/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/justnotanu/leetcode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/justnotanu/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/justnotanu/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/justnotanu/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/justnotanu/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/justnotanu/leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/justnotanu/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/justnotanu/leetcode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/justnotanu/leetcode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
@@ -793,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2634-minimum-common-value](https://github.com/justnotanu/leetcode/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/justnotanu/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/justnotanu/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/justnotanu/leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/justnotanu/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/justnotanu/leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Heap (Priority Queue)
@@ -1068,6 +1071,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/justnotanu/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/justnotanu/leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -1108,4 +1112,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/justnotanu/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Rolling Hash
+|  |
+| ------- |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/justnotanu/leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+## String Matching
+|  |
+| ------- |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/justnotanu/leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 <!---LeetCode Topics End-->
