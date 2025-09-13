@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3396-valid-word](https://github.com/justnotanu/leetcode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/justnotanu/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/justnotanu/leetcode/tree/master/3447-clear-digits) |
+| [3462-vowels-game-in-a-string](https://github.com/justnotanu/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/justnotanu/leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3617-find-the-original-typed-string-i](https://github.com/justnotanu/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/justnotanu/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -747,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/justnotanu/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/justnotanu/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/justnotanu/leetcode/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/justnotanu/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/justnotanu/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3548-find-the-count-of-good-integers](https://github.com/justnotanu/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/justnotanu/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1068,6 +1070,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1522-stone-game-iii](https://github.com/justnotanu/leetcode/tree/master/1522-stone-game-iii) |
 | [1727-cat-and-mouse-ii](https://github.com/justnotanu/leetcode/tree/master/1727-cat-and-mouse-ii) |
+| [3462-vowels-game-in-a-string](https://github.com/justnotanu/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -1116,6 +1119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/justnotanu/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/justnotanu/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/justnotanu/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/justnotanu/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Interactive
 |  |
 | ------- |
