@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/justnotanu/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/justnotanu/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/justnotanu/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/justnotanu/leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/justnotanu/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3809-properties-graph](https://github.com/justnotanu/leetcode/tree/master/3809-properties-graph) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/justnotanu/leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/justnotanu/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/justnotanu/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/justnotanu/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3797-design-spreadsheet](https://github.com/justnotanu/leetcode/tree/master/3797-design-spreadsheet) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/justnotanu/leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/justnotanu/leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/justnotanu/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/justnotanu/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/justnotanu/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/justnotanu/leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/justnotanu/leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/justnotanu/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3809-properties-graph](https://github.com/justnotanu/leetcode/tree/master/3809-properties-graph) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/justnotanu/leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -800,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/justnotanu/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/justnotanu/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/justnotanu/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3797-design-spreadsheet](https://github.com/justnotanu/leetcode/tree/master/3797-design-spreadsheet) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/justnotanu/leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Two Pointers
 |  |
@@ -1098,6 +1102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-number-in-infinite-set](https://github.com/justnotanu/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/justnotanu/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/justnotanu/leetcode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/justnotanu/leetcode/tree/master/3797-design-spreadsheet) |
 ## Geometry
 |  |
 | ------- |
