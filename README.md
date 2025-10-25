@@ -776,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-number-of-substrings-with-only-1s](https://github.com/justnotanu/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/justnotanu/leetcode/tree/master/1642-water-bottles) |
 | [1727-cat-and-mouse-ii](https://github.com/justnotanu/leetcode/tree/master/1727-cat-and-mouse-ii) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/justnotanu/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/justnotanu/leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/justnotanu/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/justnotanu/leetcode/tree/master/2050-count-good-numbers) |
