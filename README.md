@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/justnotanu/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/justnotanu/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/justnotanu/leetcode/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/justnotanu/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/justnotanu/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/justnotanu/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/justnotanu/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0934-bitwise-ors-of-subarrays](https://github.com/justnotanu/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/justnotanu/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/justnotanu/leetcode/tree/master/0945-snakes-and-ladders) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/justnotanu/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/justnotanu/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/justnotanu/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/justnotanu/leetcode/tree/master/1036-rotting-oranges) |
