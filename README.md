@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/justnotanu/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/justnotanu/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/justnotanu/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1390-four-divisors](https://github.com/justnotanu/leetcode/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/justnotanu/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/justnotanu/leetcode/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/justnotanu/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -775,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/justnotanu/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1018-largest-perimeter-triangle](https://github.com/justnotanu/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/justnotanu/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1390-four-divisors](https://github.com/justnotanu/leetcode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/justnotanu/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/justnotanu/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/justnotanu/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
