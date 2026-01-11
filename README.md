@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/justnotanu/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/justnotanu/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/justnotanu/leetcode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/justnotanu/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/justnotanu/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/justnotanu/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/justnotanu/leetcode/tree/master/0120-triangle) |
@@ -506,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/justnotanu/leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/justnotanu/leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/justnotanu/leetcode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/justnotanu/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/justnotanu/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/justnotanu/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/justnotanu/leetcode/tree/master/0120-triangle) |
@@ -850,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/justnotanu/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/justnotanu/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/justnotanu/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/justnotanu/leetcode/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/justnotanu/leetcode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/justnotanu/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/justnotanu/leetcode/tree/master/1036-rotting-oranges) |
@@ -956,6 +959,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/justnotanu/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/justnotanu/leetcode/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/justnotanu/leetcode/tree/master/0224-basic-calculator) |
 | [0385-mini-parser](https://github.com/justnotanu/leetcode/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/justnotanu/leetcode/tree/master/0394-decode-string) |
@@ -1024,6 +1028,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/justnotanu/leetcode/tree/master/0085-maximal-rectangle) |
 | [0937-online-stock-span](https://github.com/justnotanu/leetcode/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/justnotanu/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/justnotanu/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
