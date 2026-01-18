@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1834-minimum-number-of-people-to-teach](https://github.com/justnotanu/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/justnotanu/leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/justnotanu/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1895-largest-magic-square](https://github.com/justnotanu/leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/justnotanu/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/justnotanu/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/justnotanu/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -495,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/justnotanu/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1046-max-consecutive-ones-iii](https://github.com/justnotanu/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/justnotanu/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1895-largest-magic-square](https://github.com/justnotanu/leetcode/tree/master/1895-largest-magic-square) |
 | [2001-jump-game-vii](https://github.com/justnotanu/leetcode/tree/master/2001-jump-game-vii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/justnotanu/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/justnotanu/leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -871,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/justnotanu/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/justnotanu/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-cat-and-mouse-ii](https://github.com/justnotanu/leetcode/tree/master/1727-cat-and-mouse-ii) |
+| [1895-largest-magic-square](https://github.com/justnotanu/leetcode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/justnotanu/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/justnotanu/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/justnotanu/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
