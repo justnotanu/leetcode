@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/justnotanu/leetcode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/justnotanu/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/justnotanu/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/justnotanu/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/justnotanu/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/justnotanu/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/justnotanu/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/justnotanu/leetcode/tree/master/0611-valid-triangle-number) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/justnotanu/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1046-max-consecutive-ones-iii](https://github.com/justnotanu/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/justnotanu/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/justnotanu/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/justnotanu/leetcode/tree/master/1397-search-suggestions-system) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/justnotanu/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -495,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/justnotanu/leetcode/tree/master/0724-find-pivot-index) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/justnotanu/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1046-max-consecutive-ones-iii](https://github.com/justnotanu/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/justnotanu/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1833-find-the-highest-altitude](https://github.com/justnotanu/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/justnotanu/leetcode/tree/master/1895-largest-magic-square) |
 | [2001-jump-game-vii](https://github.com/justnotanu/leetcode/tree/master/2001-jump-game-vii) |
@@ -870,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/justnotanu/leetcode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/justnotanu/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/justnotanu/leetcode/tree/master/1036-rotting-oranges) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/justnotanu/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/justnotanu/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/justnotanu/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-cat-and-mouse-ii](https://github.com/justnotanu/leetcode/tree/master/1727-cat-and-mouse-ii) |
