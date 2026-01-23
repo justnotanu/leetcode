@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/justnotanu/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/justnotanu/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/justnotanu/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/justnotanu/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/justnotanu/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/justnotanu/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/justnotanu/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/justnotanu/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/justnotanu/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/justnotanu/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/justnotanu/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/justnotanu/leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/justnotanu/leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/justnotanu/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -950,6 +952,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-put-marbles-in-bags](https://github.com/justnotanu/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/justnotanu/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/justnotanu/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/justnotanu/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/justnotanu/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/justnotanu/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/justnotanu/leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -978,6 +981,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-water-bottles-ii](https://github.com/justnotanu/leetcode/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/justnotanu/leetcode/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/justnotanu/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/justnotanu/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/justnotanu/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3625-stone-removal-game](https://github.com/justnotanu/leetcode/tree/master/3625-stone-removal-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/justnotanu/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1164,6 +1168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-number-in-infinite-set](https://github.com/justnotanu/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/justnotanu/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/justnotanu/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/justnotanu/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/justnotanu/leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/justnotanu/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/justnotanu/leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -1201,6 +1206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/justnotanu/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/justnotanu/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/justnotanu/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/justnotanu/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Trie
 |  |
 | ------- |
@@ -1305,4 +1311,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/justnotanu/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/justnotanu/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
